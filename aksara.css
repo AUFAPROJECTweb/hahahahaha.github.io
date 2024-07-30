@@ -1,0 +1,106 @@
+body {
+    background-color:aqua;
+    height: 100vh;
+}
+
+.tablee {
+    background-color: white;
+    width: 350px;
+    
+}
+
+.link {
+    width: 505px;
+    height: 20px;
+}
+
+.Judul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sandhangan {
+background-color: white;
+width: 300px;
+}
+
+.contoh {
+    text-decoration: none;
+    color: rgb(211, 53, 185);
+}
+
+.haha {
+    background-color: aqua;
+}
+.duh {
+    height: 100hv;
+}
+
+.input-wrapper input {
+    background-color: #eee;
+    border: none;
+    padding: 1rem;
+    font-size: 1rem;
+    width: 13em;
+    border-radius: 1rem;
+    color: lightcoral;
+    box-shadow: 0 0.4rem #dfd9d9;
+    cursor: pointer;
+  }
+  
+  .input-wrapper input:focus {
+    outline-color: lightcoral;
+  }
+
+  .coso {
+    background-color: white;
+  }
+
+  .of {
+    height: 40px;
+    font-size: small;
+  }
+
+  .nn {
+    text-align: center;
+  }
+
+  .aksara1 {
+    text-align: center;
+  }
+
+  .aksara2 {
+    text-align: center;
+  }
+
+  .loader::after {
+    content: "";
+    font-weight: 600;
+    font-size: 100px;
+    color: black;
+    animation-name: animatingtext;
+    animation-duration: 1200ms;
+    animation-iteration-count: infinite;
+  }
+
+  @keyframes animatingtext {
+    0% { content: "L";}
+    10% { content: "Lo";}
+    20% { content: "Loa";}
+    30% { content: "Load";}
+    40% { content: "Loadi";}
+    50% { content: "Loadin";}
+    60% { content: "Loading";}
+    70% { content: "Loading .";}
+    80% { content: "Loading ..";}
+    90% { content: "Loading ...";}
+    100% { content: "Loading ....";}
+
+  }
+
+.oo {
+  background-color: white;
+  width: 210;
+  text-align: center;
+}
